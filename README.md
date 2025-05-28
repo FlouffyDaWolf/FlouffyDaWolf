@@ -28,9 +28,17 @@
 
 ## 🧰 Tools
 
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px"></kbd>
+<kbd><picture>
+				<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7ffd142c-98fd-4283-b7fe-92f5de762630">
+				<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-light-mode-only">
+			</picture></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40px"></kbd>
+<kbd><picture>
+				<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+				<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b752cafd-eb1c-4783-be60-92f0f5cd4121">
+				<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg#gh-light-mode-only">
+			</picture></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40px"></kbd>
 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="40px"></kbd>
 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40px"></kbd>
