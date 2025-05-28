@@ -55,7 +55,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:2d589c,100:47ba5c" width="100%"/>
 <br>
 
-<h3 align="center">📫 Contacts 📫</h4>
+<h2 align="center">📫 Contacts 📫</h2>
 
 <div align="center">
 <kbd><a href="https://discord.com/users/545212305353342986" style="margin:0 2px"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" height="40px" width="40px"></a></kbd>
