@@ -41,7 +41,7 @@
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlouffyDaWolf&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" style="width:60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlouffyDaWolf&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width:40%">
+<img src="https://github-readme-stats.vercel.app/api?username=FlouffyDaWolf&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" width="60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlouffyDaWolf&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%">
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:2d589c,100:47ba5c" width="100%"/>
@@ -50,8 +50,8 @@
 <h3 align="center">📫 Contacts 📫</h4>
 
 <div align="center">
-<kbd><a href="https://discord.com/users/545212305353342986" style="margin:0 2px"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" height="40px"></a></kbd>
-<kbd><a href="mailto: evanmideo@hotmail.com" style="margin:0 2px"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40px"></a></kbd>
+<kbd><a href="https://discord.com/users/545212305353342986" style="margin:0 2px"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" height="40px" width="40px"></a></kbd>
+<kbd><a href="mailto: evanmideo@hotmail.com" style="margin:0 2px"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40px" width="40px"></a></kbd>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:47ba5c,100:2d589c&fontAlignY=65&section=footer&text=See%20you%20next%20time%20;)&fontColor=FFFFFFB0" style="width:100%"/>
