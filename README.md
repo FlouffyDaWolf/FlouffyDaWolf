@@ -17,12 +17,12 @@
 ## 📝 Languages
 
 <kbd><img src="https://img.icons8.com/?size=192&id=gVK745a4Vaur&format=png" height="40px"></kbd>
-<kbd><img src="Images/Csharp.png" height="40px"></kbd>
-<kbd><img src="Images/Cpp.png" height="40px"></kbd>
-<kbd><img src="Images/Html.png" height="40px"></kbd>
-<kbd><img src="Images/Css.png" height="40px"></kbd>
-<kbd><img src="Images/Js.png" height="40px"></kbd>
-<kbd><img src="Images/React.png" height="40px"></kbd>
+<kbd><img src="images/Csharp.png" height="40px"></kbd>
+<kbd><img src="images/Cpp.png" height="40px"></kbd>
+<kbd><img src="images/Html.png" height="40px"></kbd>
+<kbd><img src="images/Css.png" height="40px"></kbd>
+<kbd><img src="images/Js.png" height="40px"></kbd>
+<kbd><img src="images/React.png" height="40px"></kbd>
 
 <br>
 
